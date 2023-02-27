@@ -1,0 +1,79 @@
+@import url('https://fonts.cdnfonts.com/css/xilla');
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+nav
+{
+    background: linear-gradient(to right,#aaffff,#ff6ec7);
+}
+
+.Navegacion ul
+{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.Navegacion li
+{
+    margin: 0 10px;
+    
+}
+
+.Navegacion a
+{
+    color: white;
+    padding: 10px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.Navegacion a:hover
+{
+    background-color:#d345ff ;
+}
+
+.animar
+{
+    font-family: 'Xilla', sans-serif;
+    margin: 10px;
+}
+
+img
+{
+    size: 10%;
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-image: url(/img/fndo.png);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.footer
+{
+    height: 80px;
+}
+
+.bajo
+{
+    display: flexbox ;
+    margin: 0;
+    padding: 0;
+}
+
+footer
+{
+    margin: 0%;
+    padding: 0;
+}
