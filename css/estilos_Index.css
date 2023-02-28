@@ -39,10 +39,11 @@ nav
     background-color:#d345ff ;
 }
 
-.animar
+h1
 {
     font-family: 'Xilla', sans-serif;
     margin: 10px;
+    color: white;
 }
 
 img
@@ -76,4 +77,9 @@ footer
 {
     margin: 0%;
     padding: 0;
+}
+
+p
+{
+    color: white;
 }
